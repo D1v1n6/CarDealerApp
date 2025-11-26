@@ -9,7 +9,7 @@ var home = Environment.GetEnvironmentVariable("HOME")
            ?? Environment.GetEnvironmentVariable("HOME_DIR") 
            ?? "/home";
 
-var dbPath = Path.Combine(home, "SolidCoreMvc.db");
+var dbPath = Path.Combine(home, "CarDealer.db");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite($"Data Source={dbPath}"));
