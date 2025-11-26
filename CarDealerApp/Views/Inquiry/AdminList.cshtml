@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CarDealerApp.Models.Inquiry>
+
+@{
+    ViewData["Title"] = "Customer Inquiries";
+}
+
+<h2>Customer Inquiries</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Customer Name</th>
+            <th>Email</th>
+            <th>Message</th>
+            <th>Car</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var inquiry in Model)
+        {
+            <tr>
+                <td>@inquiry.Name</td>
+                <td>@inquiry.Email</td>
+                <td>@inquiry.Message</td>
+                <td>
+                    <a href="/Cars/Details/@inquiry.CarId">
+                        View Car
+                    </a>
+                </td>
+                <td>@inquiry.CreatedAt.ToString("yyyy-MM-dd HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>

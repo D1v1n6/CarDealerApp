@@ -1,0 +1,51 @@
+﻿@model CarDealerApp.Models.Car
+@{
+    ViewData["Title"] = $"{Model.Make} {Model.Model}";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <img src="@Model.ImagePath" class="img-fluid rounded shadow" alt="@Model.Make @Model.Model" />
+    </div>
+    <div class="col-md-6">
+        <h2>@Model.Make @Model.Model (@Model.Year)</h2>
+        <p class="text-muted">Price: <strong>$@Model.Price.ToString("N0")</strong></p>
+        <p>@Model.Description</p>
+    </div>
+</div>
+
+<hr />
+
+<h4>Send an Inquiry</h4>
+
+<form asp-controller="Inquiry" asp-action="Submit" method="post">
+    <input type="hidden" name="CarId" value="@Model.Id" />
+
+    <div class="mb-3">
+        <label>Name</label>
+        <input type="text" name="Name" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input type="email" name="Email" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label>Phone</label>
+        <input type="text" name="Phone" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Message</label>
+        <textarea name="Message" class="form-control" rows="3"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-success">Submit Inquiry</button>
+</form>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success mt-3">@TempData["Message"]</div>
+}

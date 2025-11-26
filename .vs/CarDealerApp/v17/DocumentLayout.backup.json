@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarDealerApp\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\models\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\models\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\controllers\\api\\carsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\controllers\\api\\carsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\controllers\\inquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\controllers\\inquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\controllers\\api\\inquiriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\controllers\\api\\inquiriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\models\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\models\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|c:\\users\\pjayd\\desktop\\cardealerapp\\cardealerapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2115DA63-4B94-41E0-BAB1-04ECFF43D51E}|CarDealerApp\\CarDealerApp.csproj|solutionrelative:cardealerapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarDealerApp\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "CarDealerApp\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:04:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CarDealerApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:03:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarDealerApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CarDealerApp\\Views\\Account\\Login.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T23:47:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\LoginView.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Models\\LoginView.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\LoginView.cs",
+              "RelativeToolTip": "CarDealerApp\\Models\\LoginView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:33:07.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarDealerApp\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "CarDealerApp\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T21:43:28.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\Api\\CarsApiController.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Controllers\\Api\\CarsApiController.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\Api\\CarsApiController.cs",
+              "RelativeToolTip": "CarDealerApp\\Controllers\\Api\\CarsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:25:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InquiryController.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\InquiryController.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Controllers\\InquiryController.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\InquiryController.cs",
+              "RelativeToolTip": "CarDealerApp\\Controllers\\InquiryController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:19:37.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Program.cs",
+              "RelativeToolTip": "CarDealerApp\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:10:14.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InquiriesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\Api\\InquiriesApiController.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Controllers\\Api\\InquiriesApiController.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\Api\\InquiriesApiController.cs",
+              "RelativeToolTip": "CarDealerApp\\Controllers\\Api\\InquiriesApiController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:27:27.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarDealerApp\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:18:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CarDealerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\appsettings.json",
+              "RelativeToolTip": "CarDealerApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T21:13:39.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CarDealerApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:53:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inquiry.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\Inquiry.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Models\\Inquiry.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\Inquiry.cs",
+              "RelativeToolTip": "CarDealerApp\\Models\\Inquiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:48:17.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealerApp\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\pjayd\\Desktop\\CarDealerApp\\CarDealerApp\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealerApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:42:30.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
